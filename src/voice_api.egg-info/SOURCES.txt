@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/voice_api/__init__.py
+src/voice_api/api.py
+src/voice_api/config.py
+src/voice_api.egg-info/PKG-INFO
+src/voice_api.egg-info/SOURCES.txt
+src/voice_api.egg-info/dependency_links.txt
+src/voice_api.egg-info/requires.txt
+src/voice_api.egg-info/top_level.txt
