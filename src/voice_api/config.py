@@ -12,5 +12,5 @@ MODEL_PATHS = {
     }
 }
 
-API_BASE_URL = "http://127.0.0.1"
-API_PORT = 9880
+# API_BASE_URL = "http://127.0.0.1"
+# API_PORT = 9880

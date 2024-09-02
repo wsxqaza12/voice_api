@@ -1,11 +1,11 @@
 import requests
 from io import BytesIO
 from pydub import AudioSegment
-from .config import MODEL_PATHS, API_BASE_URL, API_PORT
+from .config import MODEL_PATHS
 
 class VoiceAPI:
-    def __init__(self):
-        self.base_url = f"{API_BASE_URL}:{API_PORT}"
+    def __init__(self, api_base_url, api_port):
+        self.base_url = f"{api_base_url}:{api_port}"
         self.model_paths = MODEL_PATHS
         self.current_model = None
 
