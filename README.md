@@ -1,4 +1,4 @@
-# GPT-SoVITS API
+# VoiceAPI
 
 This package provides a Python wrapper for the Voice API, allowing easy interaction with the GPT-SoVITS voice synthesis system.
 
