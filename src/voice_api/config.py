@@ -28,7 +28,7 @@ MODEL_PATHS = {
         "gpt_weights": "/home/ubuntu/GPT-SoVITS/GPT_weights_v2/man2-e25.ckpt",
         "sovits_weights": "/home/ubuntu/GPT-SoVITS/SoVITS_weights_v2/man2_e24_s336.pth",
         "prompt_text": "而国人最期待赖政府改革的第一名是什么你知道吗?第一名就是诈骗防治，而至于包括了低薪高通膨的通膨问题。"
-    # },
+    },
     # "man3": {
     #     "refer_audio": "/home/ubuntu/voice/man1/example.wav",
     #     "gpt_weights": "/home/ubuntu/GPT-SoVITS/GPT_weights_v2/woman_voice1-e40.ckpt",
