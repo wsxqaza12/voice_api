@@ -1,4 +1,4 @@
-FLODER_PATH = "/home/ubuntu/"
+FLODER_PATH = "/home/user/"
 MODEL_PATHS = {
     "woman1": {
         "refer_audio": FLODER_PATH + "voice/woman1/example.wav",
@@ -27,7 +27,7 @@ MODEL_PATHS = {
     "man2": {
         "refer_audio": FLODER_PATH + "voice/man1/example.wav",
         "gpt_weights": FLODER_PATH + "GPT-SoVITS/GPT_weights_v2/man2-e25.ckpt",
-        "sovits_weights": FLODER_PATH + "GPT-SoVITS/SoVITS_weights_v2/man2_e24_s336.pth",
+        "sovits_weights": FLODER_PATH + "GPT-SoVITS/SoVITS_weights_v2/man2_e12_s336.pth",
         "prompt_text": "而国人最期待赖政府改革的第一名是什么你知道吗?第一名就是诈骗防治，而至于包括了低薪高通膨的通膨问题。"
     },
     # "man3": {
