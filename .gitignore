@@ -166,3 +166,4 @@ SSL/*
 !SSL/.gitkeep
 
 src/voice_api.egg-info/*
+*.mp3

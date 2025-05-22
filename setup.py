@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="voice_api",
-    version="1.1.0",
+    version="2.0.0",
     author="Chichieh Huang",
     author_email="cch.chichieh@gmail.com",
     description="A Python wrapper for the Voice API",
